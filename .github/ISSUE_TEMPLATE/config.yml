@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions about your account or billing
+    url: https://fpulse.app/contact
+    about: Contact the F-Pulse App team
+  - name: API reference
+    url: https://fpulse.app/docs
+    about: Every endpoint, field and error code

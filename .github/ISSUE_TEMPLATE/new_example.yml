@@ -1,0 +1,15 @@
+name: Request an example
+description: Ask for a new language, framework or integration
+labels: [enhancement]
+body:
+  - type: input
+    id: what
+    attributes:
+      label: Language, framework or tool
+      placeholder: SvelteKit, Laravel Livewire, React Native...
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What do you want to build?
