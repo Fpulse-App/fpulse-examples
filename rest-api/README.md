@@ -9,7 +9,7 @@ They are the same examples as on [fpulse.app/docs](https://fpulse.app/docs?utm_s
 | cURL | [`curl/`](curl) | `sh curl/submit-feedback.sh` after putting in your key |
 | JavaScript | [`javascript/submit-feedback.js`](javascript/submit-feedback.js), [`react/FeedbackWidget.jsx`](javascript/react/FeedbackWidget.jsx) | Browser `fetch`, no package needed |
 | Python | [`python/feedback_pulse.py`](python/feedback_pulse.py) | `pip install requests`, then `python feedback_pulse.py` |
-| Swift (iOS, macOS) | [`swift/QuickStart.swift`](swift/QuickStart.swift) | Uses the [Swift package](https://github.com/ztuskes/feedbackPulse) |
+| Swift (iOS, macOS) | [`swift/QuickStart.swift`](swift/QuickStart.swift) | Uses the [Swift package](https://github.com/Fpulse-App/feedbackPulse) |
 | Kotlin (Android) | [`kotlin/FeedbackPulse.kt`](kotlin/FeedbackPulse.kt) | kotlinx.coroutines; `org.json` comes with Android |
 | Dart / Flutter | [`dart/`](dart) | `http` package |
 | Java | [`java/`](java) | Java 11+ `HttpClient` and Gson, Spring Boot example |

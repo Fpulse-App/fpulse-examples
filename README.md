@@ -26,7 +26,7 @@ This repository has copy-paste examples for every way to send feedback to it.
 <p>
   <a href="website-widget"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-website-widget-dark.svg"><img alt="Website widget: one script tag on any site" src="assets/card-website-widget-light.svg" width="32%"></picture></a>
   <a href="website-widget/wordpress-plugin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-wordpress-dark.svg"><img alt="WordPress plugin" src="assets/card-wordpress-light.svg" width="32%"></picture></a>
-  <a href="https://github.com/ztuskes/feedbackPulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ios-sdk-dark.svg"><img alt="iOS and macOS SDK" src="assets/card-ios-sdk-light.svg" width="32%"></picture></a>
+  <a href="https://github.com/Fpulse-App/feedbackPulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ios-sdk-dark.svg"><img alt="iOS and macOS SDK" src="assets/card-ios-sdk-light.svg" width="32%"></picture></a>
   <br>
   <a href="rest-api"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rest-api-dark.svg"><img alt="REST API in 13 languages" src="assets/card-rest-api-light.svg" width="32%"></picture></a>
   <a href="webhooks"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-webhooks-dark.svg"><img alt="Webhooks" src="assets/card-webhooks-light.svg" width="32%"></picture></a>
