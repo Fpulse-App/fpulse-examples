@@ -3,10 +3,10 @@
 </a>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge" alt="License: MIT"></a>
-  <a href="rest-api"><img src="https://img.shields.io/badge/Examples-13%20languages-0f766e?style=for-the-badge" alt="Examples: 13 languages"></a>
-  <a href="https://fpulse.app/docs?utm_source=github&utm_medium=examples"><img src="https://img.shields.io/badge/Docs-fpulse.app/docs-15803d?style=for-the-badge" alt="Docs: fpulse.app/docs"></a>
-  <a href="https://fpulse.app/pricing?utm_source=github&utm_medium=examples"><img src="https://img.shields.io/badge/Free%20plan-1%2C000%20feedbacks/mo-166534?style=for-the-badge" alt="Free plan: 1,000 feedbacks/mo"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-D7FF3A?style=for-the-badge&labelColor=0B0D1A" alt="License: MIT"></a>
+  <a href="rest-api"><img src="https://img.shields.io/badge/Examples-13%20languages-D7FF3A?style=for-the-badge&labelColor=0B0D1A" alt="Examples: 13 languages"></a>
+  <a href="https://fpulse.app/docs?utm_source=github&utm_medium=examples"><img src="https://img.shields.io/badge/Docs-fpulse.app/docs-D7FF3A?style=for-the-badge&labelColor=0B0D1A" alt="Docs: fpulse.app/docs"></a>
+  <a href="https://fpulse.app/pricing?utm_source=github&utm_medium=examples"><img src="https://img.shields.io/badge/Free%20plan-1%2C000%20feedbacks/mo-D7FF3A?style=for-the-badge&labelColor=0B0D1A" alt="Free plan: 1,000 feedbacks/mo"></a>
 </p>
 
 <p align="center">
